@@ -569,6 +569,25 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
+.social-links{
+    display: flex;
+}
+.social-links ul{
+    display: flex;
+    
+    width: 300px;
+    height: 30px;
+    margin: auto;
+}
+.social-items{
+    list-style: none;
+}
+.social-items a{
+    padding: 10px 20px;
+    font-size: 30px;
+    color: cornflowerblue;
+
+}
 
 
 /* responsive media query start */
