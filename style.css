@@ -388,13 +388,13 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 60%;
 }
 .skills-content .right .react::before{
-    width: 70%;
+    width: 50%;
 }
 .skills-content .right .dbms::before{
-    width: 70%;
+    width: 60%;
 }
 
 /* teams section styling */
